@@ -5,7 +5,7 @@
 #    pip-compile
 #
 certifi==2026.4.22        # via requests
-chardet==7.3.0            # via pynag, requests
+chardet==7.4.3            # via pynag, requests
 idna==3.13                # via requests
 pynag==1.1.2              # via -r requirements.in
 requests==2.33.1          # via -r requirements.in
