@@ -8,6 +8,6 @@ certifi==2026.4.22        # via requests
 chardet==7.3.0            # via pynag, requests
 idna==3.13                # via requests
 pynag==1.1.2              # via -r requirements.in
-requests==2.33.0          # via -r requirements.in
+requests==2.33.1          # via -r requirements.in
 six==1.17.0               # via pynag
 urllib3==2.6.3           # via requests
